@@ -1,16 +1,57 @@
-## Hi there 👋
+```bash
+$ whoami
+michael_kedey
+```
 
-<!--
-**michaelkedey/michaelkedey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://hub.docker.com/repositories/michaelkedey">
+    <img src="https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/users/michaelkedey">
+    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/michaelkedey">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash
+$ cat ~/.config/michaelkedey/profile.json
+```
+
+```json
+// ~/.config/michaelkedey/profile.json
+{
+  "Hire Me": {
+    "Role": "DevOps, Cloud, System, Network",
+    "RoleSuffix": "Engineer",
+    "RoleType": "Remote, Freelance",
+    "Focus": [
+      "Infrastructure Design & Automation",
+      "Infrastructure as Code",
+      "Cloud Optimization",
+      "Highly Available Systems",
+      "Secure Networking",
+      "CI/CD Pipelines"
+    ],
+    "I also like": {
+      "OS": "CentOS Stream",
+      "GUI": "GNOME",
+      "Shell": "Bash",
+      "IDE": "VS Code",
+      "MobileOS": "Android",
+      "Music": {
+        "Artists": ["M.anifest", "Festo", "GodMC"],
+        "Albums": ["MTTU", "Nowhere Cool"]
+      }
+    },
+    "Open to": "impactful projects, consulting, and collaboration"
+  }
+}
+```
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=michaelkedey&show_icons=true&theme=tokyonight" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelkedey&layout=compact&theme=tokyonight" height="200px" />
+</p>
