@@ -52,7 +52,7 @@ $ cat ~/.config/michaelkedey/profile.json
 
 ```
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=michaelkedey&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelkedey&layout=compact&theme=tokyonight" />
 </p>
