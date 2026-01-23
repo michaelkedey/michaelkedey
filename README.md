@@ -23,35 +23,37 @@ $ cat ~/.config/michaelkedey/profile.json
 ```json
 // ~/.config/michaelkedey/profile.json
 {
-  "Hire Me": {
-    "Role": "DevOps, Cloud, System, Network",
-    "RoleSuffix": "Engineer",
-    "RoleType": "Remote, Freelance",
-    "Focus": [
-      "Infrastructure Design & Automation",
-      "Infrastructure as Code",
-      "Cloud Optimization",
-      "Highly Available Systems",
-      "Secure Networking",
-      "CI/CD Pipelines"
-    ],
+    "Hire Me": {
+        "Role": "DevOps, Cloud, System, Network",
+        "RoleSuffix": "Engineer",
+        "RoleType": "Remote, Freelance",
+        "Focus": [
+            "Infrastructure Design & Automation",
+            "Infrastructure as Code",
+            "Cloud Optimization",
+            "Highly Available Systems",
+            "Secure Networking",
+            "CI/CD Pipelines"
+        ]
+    },
     "I also like": {
-      "OS": "CentOS Stream",
-      "GUI": "GNOME",
-      "Shell": "Bash",
-      "IDE": "VS Code",
-      "MobileOS": "Android",
-      "Music": {
-        "Artists": ["M.anifest", "Festo", "GodMC"],
-        "Albums": ["MTTU", "Nowhere Cool"]
-      }
+        "OS": "CentOS Stream",
+        "GUI": "GNOME",
+        "Shell": "Bash",
+        "IDE": "VS Code",
+        "MobileOS": "Android",
+        "Music": {
+            "Artists": ["M.anifest", "Festo", "GodMC"],
+            "Albums": ["MTTU", "Nowhere Cool"]
+        }
     },
     "Open to": "impactful projects, consulting, and collaboration"
-  }
 }
+
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=michaelkedey&show_icons=true&theme=tokyonight" height="200px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelkedey&layout=compact&theme=tokyonight" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=michaelkedey&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelkedey&layout=compact&theme=tokyonight" />
 </p>
+
