@@ -4,6 +4,9 @@ michael_kedey
 ```
 
 <p align="center">
+  <a href="https://gist.github.com/michaelkedey">
+    <img src="https://img.shields.io/badge/Gist-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Gist" />
+  </a>
   <a href="https://hub.docker.com/repositories/michaelkedey">
     <img src="https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   </a>
@@ -16,12 +19,12 @@ michael_kedey
 </p>
 
 
+
 ```bash
 $ cat ~/.config/michaelkedey/profile.json
 ```
 
 ```json
-// ~/.config/michaelkedey/profile.json
 {
     "Hire Me": {
         "Role": "DevOps, Cloud, System, Network",
@@ -54,6 +57,5 @@ $ cat ~/.config/michaelkedey/profile.json
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=michaelkedey&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelkedey&layout=compact&theme=tokyonight" />
 </p>
 
